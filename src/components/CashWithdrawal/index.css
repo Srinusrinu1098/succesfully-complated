@@ -1,0 +1,74 @@
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: #150b3e;
+  height: 80vh;
+  width: 70vh;
+  border-radius: 10px;
+}
+.profile-flex {
+  display: flex;
+  padding-top: 30px;
+  padding-left: 20px;
+}
+.profile {
+  height: 70px;
+  width: 70px;
+  font-size: 14px;
+  color: #ffffff;
+  border: 0px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  color: #7c3aed;
+  background-color: #c7d2fe;
+  margin: 10px;
+}
+.profile-name {
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  font-size: 22px;
+}
+.balance-flex {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.balance-name {
+  color: #585076;
+  font-size: 22px;
+}
+.rupees {
+  color: #585076;
+  font-size: 14px;
+}
+.balance {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: bold;
+}
+.withdraw {
+  color: #ffffff;
+  font-size: 22px;
+  padding-left: 24px;
+}
+.sumInRupees {
+  color: #585076;
+  font-size: 18px;
+  padding-left: 24px;
+}
+.ul-element {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}

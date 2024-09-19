@@ -1,0 +1,13 @@
+.button {
+  height: 40px;
+  width: 160px;
+  background-color: #382f5a;
+  border-radius: 8px;
+  color: #ffffff;
+  border: 0px solid;
+  font-size: 24px;
+  font-weight: 300;
+}
+.li {
+  margin: 10px;
+}
